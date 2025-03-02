@@ -2,7 +2,7 @@ const messages = [
     "Tem certeza?",
     "Certeza mesmo?",
     "Tá certa disso?",
-    "Anne...",
+    "Beesst...",
     "Pense bem na sua resposta!",
     "Se você disser que não, eu vou ficar muito triste...",
     "Tá locona?",
